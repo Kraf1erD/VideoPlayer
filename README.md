@@ -1,2 +1,2 @@
 # VideoPlayer
-Just a video player
+It's just a video player
