@@ -1,2 +1,2 @@
 # VideoPlayer
-It's just a video player
+It's just a terrible video player
